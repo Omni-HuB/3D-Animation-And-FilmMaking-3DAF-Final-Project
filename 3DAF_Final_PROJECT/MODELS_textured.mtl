@@ -1,0 +1,62 @@
+# Blender 3.6.2 MTL File: 'MODELS_textured.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/character Uvs/character_DefaultMaterial_BaseColor.png
+map_Ns C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/character Uvs/character_DefaultMaterial_Roughness.png
+map_refl C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/character Uvs/character_DefaultMaterial_Metallic.png
+map_Bump -bm 1.000000 C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/character Uvs/character_DefaultMaterial_Normal.png
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Boxing_glub Uvs/glub_Material.001_BaseColor.png
+map_Ns C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Boxing_glub Uvs/glub_Material.001_Roughness.png
+map_refl C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Boxing_glub Uvs/glub_Material.001_Metallic.png
+map_Bump -bm 1.000000 C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Boxing_glub Uvs/glub_Material.001_Normal.png
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Shoe Uvs/shoe_Material.001_BaseColor.png
+map_Ns C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Shoe Uvs/shoe_Material.001_Roughness.png
+map_refl C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Shoe Uvs/shoe_Material.001_Metallic.png
+map_Bump -bm 1.000000 C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/Shoe Uvs/shoe_Material.001_Normal.png
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/scythe Uvs/Scythe_Material.001_BaseColor.png
+map_Ns C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/scythe Uvs/Scythe_Material.001_Roughness.png
+map_refl C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/scythe Uvs/Scythe_Material.001_Metallic.png
+map_Bump -bm 1.000000 C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/scythe Uvs/Scythe_Material.001_Normal.png
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/ROBE Uvs/robe_DefaultMaterial_BaseColor.png
+map_Ns C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/ROBE Uvs/robe_DefaultMaterial_Roughness.png
+map_refl C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/ROBE Uvs/robe_DefaultMaterial_Metallic.png
+map_Bump -bm 1.000000 C:/Users/moham/OneDrive/Desktop/3daf---ass--pro/toSUBMIT/TEXTURING MODELS/TEXTUREd MODELS_____________/ROBE Uvs/robe_DefaultMaterial_Normal.png
