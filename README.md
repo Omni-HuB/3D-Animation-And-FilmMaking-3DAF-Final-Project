@@ -1,4 +1,6 @@
-<h1><strong>  ----------------  3D-Animation-And-FilmMaking-3DAF-Final-Project ------------------ </strong></h1>
+<h1><strong>    3D-Animation-And-FilmMaking-3DAF-Final-Project  </strong></h1>
+                    ----------------------------------
+                    ----------------------------------
 <br>
 **Tools Used:** 
 
