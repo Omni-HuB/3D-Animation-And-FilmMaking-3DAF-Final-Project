@@ -13,6 +13,10 @@
 <h3><strong>  What does the project is all about:  </strong></h3>
 <br>
 1.  Interaction between two characters,
+<br>
 2.  rigged characters, props
+<br>
 3.  textured environment, props and characters
+<br>
 4.  props and characters, UAVs**
+<br>
